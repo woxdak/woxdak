@@ -23,7 +23,6 @@
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/43390744/103717439-1d90a800-4f8b-11eb-9a18-63a72f333dbf.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/43390744/103718501-7ca2ec80-4f8c-11eb-96af-f32586124a32.png" />
-" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="35px" src="https://user-images.githubusercontent.com/43390744/103717515-4b75ec80-4f8b-11eb-9b64-4afbdff8c1e8.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43390744/103718351-2afa6200-4f8c-11eb-9726-8a837a4a990d.png" />

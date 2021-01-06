@@ -24,7 +24,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/43390744/103717515-4b75ec80-4f8b-11eb-9b64-4afbdff8c1e8.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43390744/103718351-2afa6200-4f8c-11eb-9726-8a837a4a990d.png" />
 
 <img align="left" alt="MySQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Java" width="42px" src="https://user-images.githubusercontent.com/43390744/103717606-8a0ba700-4f8b-11eb-956a-00416033e02a.png" />

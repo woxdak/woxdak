@@ -19,7 +19,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/43390744/103717555-67798e00-4f8b-11eb-86b8-295129f270e0.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/43390744/103718219-dd7df500-4f8b-11eb-8094-c35aaac690ee.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/43390744/103717439-1d90a800-4f8b-11eb-9a18-63a72f333dbf.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
